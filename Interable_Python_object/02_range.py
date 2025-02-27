@@ -7,6 +7,7 @@
         - range(start, stop): Generates numbers from start to (stop-1).
         - range(start, stop, step): Generates numbers from start to (stop-1) with step intervals.
     Range is immutable sequence and contain only int tpes value
+    elements are indexed here
 """
 class RangeDemo: 
     def __init__(self, start=0, stop=10, step=1):
