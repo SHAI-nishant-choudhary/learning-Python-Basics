@@ -1,4 +1,5 @@
 # A class to demonstrate recursion using Object-Oriented Programming (OOP) principles.
+#Function calling itself upto a base condition is Recursion Function
 class RecursionDemo:
    
     def factorial(self, n):
